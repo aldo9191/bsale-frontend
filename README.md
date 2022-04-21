@@ -16,7 +16,7 @@ To run locally clone this repo and open index.html in the browser or with live s
 ## Production
 The project was deployed using Netlify. You can check it in the next url.
 
-[bsalebbar-ac.netlify.app](bsalebbar-ac.netlify.app "bsalebbar-ac.netlify.app")
+[bsalebbar-ac.netlify.app](https://bsalebbar-ac.netlify.app/)
 
 
 
